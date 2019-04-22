@@ -82,6 +82,7 @@ Example : Assuming you are a New user who has recently joined Netflix and you ha
 ( Only on similarity of ratings a similar movie is recommended . Genre is not considered . )
 
 1. Shaolin Soccer :
+
 ![alt text](similar1.png "Similar Movies to Shaolin Soccer")
 
 2. Shawshank Redemption :
