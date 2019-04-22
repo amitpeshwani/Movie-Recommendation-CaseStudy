@@ -33,6 +33,7 @@ Ratings are on a five star (integral) scale from 1 to 5.
 Dates have the format YYYY-MM-DD.
 
 ### Example Data Points 
+```
 1:
 1488844,3,2005-09-06
 822109,5,2005-05-13
@@ -54,6 +55,7 @@ Dates have the format YYYY-MM-DD.
 1086807,3,2004-12-28
 1711859,4,2005-05-08
 372233,5,2005-11-23
+```
 
 
 ## Type of Machine Learning Problem 
@@ -86,9 +88,11 @@ Example : Assuming you are a New user who has recently joined Netflix and you ha
 ![alt text](similar1.png "Similar Movies to Shaolin Soccer")
 
 2. Shawshank Redemption :
+
 ![alt text](similar2.png "Similar Movies to Shawshank Redemption")
 
 3. Jurassic Park 3 :
+
 ![alt text](similar3.png "Similar Movies to Jurassic Park")
 
 ## Usage 
